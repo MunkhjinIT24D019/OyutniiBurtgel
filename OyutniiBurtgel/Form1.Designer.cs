@@ -99,9 +99,9 @@
             Утас.Size = new Size(0, 20);
             Утас.TabIndex = 3;
           
-            // 
+            
             // numericUpDown1
-            // 
+         
             numericUpDown1.Location = new Point(1, 250);
             numericUpDown1.Minimum = new decimal(new int[] { 1, 0, 0, 0 });
             numericUpDown1.Name = "numericUpDown1";
